@@ -1,0 +1,19 @@
+{
+  "revision": "2026-10-19 scientific presentation edition",
+  "scope": "Selected current figure sets only. Retained historical graphics are not automatically certified compliant.",
+  "figures": [
+    {
+      "evidence_class": "Conceptual workflow diagram",
+      "caption": "evidence chain",
+      "limitations": "Diagram or analytical screen; no measured hardware, qualified design or inherited side-project evidence.",
+      "sources": {
+        "tools/generate_figure.py": "893d445dcf58071eafac5f7d057c0d1a75d15bbe47035aee1c83869eeffa239a"
+      },
+      "exports": {
+        "figures/evidence-chain.svg": "d0842a55bfc1cff8a06d6c58489ad9be2985b34d9546a345bc505013d69ff91b",
+        "figures/evidence-chain.pdf": "56f950a78976b2fb546b86e9641b7f904ee0f42127a38920783bd1357f49fcb1",
+        "figures/evidence-chain.png": "7f50c620ef5f3fe2f0b5ded655066d3720fbc22835bb70069ff684f5867e457e"
+      }
+    }
+  ]
+}

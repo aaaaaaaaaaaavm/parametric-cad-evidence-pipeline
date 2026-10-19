@@ -14,3 +14,7 @@ assert verify_manifest(".",manifest)==[]
 Run `python tools/generate_figure.py` and `python -m unittest discover -s tests -v`. The workflow is extracted from the
 evidence discipline used across [VOLLEY](https://github.com/aaaaaaaaaaaavm/VOLLEY), which
 remains the flagship project.
+
+[Scientific figures and documentation conventions](docs/FIGURE_STANDARD.md) · [Released figure sources](docs/SCIENTIFIC_FIGURES.json)
+
+The overview figures are regenerated with `python tools/generate_figure.py`. Quantitative plots retain their committed model inputs; diagrams describe relationships and do not add validation evidence.
